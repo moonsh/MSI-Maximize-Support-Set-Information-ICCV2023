@@ -33,3 +33,12 @@ Thank you very much.
 If you find this research useful, please consider citing:
 
 ````BibTeX
+@misc{moon2023msi,
+      title={MSI: Maximize Support-Set Information for Few-Shot Segmentation}, 
+      author={Seonghyeon Moon and Samuel S. Sohn and Honglu Zhou and Sejong Yoon and Vladimir Pavlovic and Muhammad Haris Khan and Mubbasir Kapadia},
+      year={2023},
+      eprint={2212.04673},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
+````
