@@ -20,7 +20,7 @@ VAT-MSI [Link](https://drive.google.com/drive/folders/1hfTjh-NbpkyhCP3aHiqwkP6Dm
 
 ## References
 
-Our work is based on these models. (HSNet, VAT, and ASNet)
+Our work is based on these models. (HSNet, VAT, ASNet, and HM)
 
 - [HSNet](https://github.com/juhongm999/hsnet) : Hypercorrelation Squeeze for Few-Shot Segmentation, ICCV 2021
 - [VAT](https://github.com/Seokju-Cho/Volumetric-Aggregation-Transformer) : Cost Aggregation with 4D Convolutional Swin Transformer for Few-Shot Segmentation, ECCV 2022
