@@ -1,7 +1,7 @@
 # MSI: Maximize Support-Set Information for Few-Shot Segmentation (ICCV 2023)
 The paper is on [[arXiv](https://arxiv.org/abs/2212.04673)].
 
-VAT-MSI [Link](https://drive.google.com/drive/folders/1hfTjh-NbpkyhCP3aHiqwkP6Dmj8rbbXd?usp=drive_link)
+VAT-MSI [Link](https://drive.google.com/drive/folders/1yiQJrVf-N5fVY-6M162uxRrhlae7rGPD?usp=sharing)
 - Pascal-5 Benchmark with ResNet50
 - Pascal-5 Benchmark with ResNet101 
 - COCO-20 Benchmark with ResNet50 
