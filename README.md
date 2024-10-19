@@ -1,3 +1,13 @@
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/msi-maximize-support-set-information-for-few/few-shot-semantic-segmentation-on-pascal-5i-1)](https://paperswithcode.com/sota/few-shot-semantic-segmentation-on-pascal-5i-1?p=msi-maximize-support-set-information-for-few)
+
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/msi-maximize-support-set-information-for-few/few-shot-semantic-segmentation-on-coco-20i-1)](https://paperswithcode.com/sota/few-shot-semantic-segmentation-on-coco-20i-1?p=msi-maximize-support-set-information-for-few)
+
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/msi-maximize-support-set-information-for-few/few-shot-semantic-segmentation-on-fss-1000-1)](https://paperswithcode.com/sota/few-shot-semantic-segmentation-on-fss-1000-1?p=msi-maximize-support-set-information-for-few)
+
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/msi-maximize-support-set-information-for-few/few-shot-semantic-segmentation-on-coco-20i)](https://paperswithcode.com/sota/few-shot-semantic-segmentation-on-coco-20i?p=msi-maximize-support-set-information-for-few)
+
+
+
 # MSI: Maximize Support-Set Information for Few-Shot Segmentation (ICCV 2023)
 The paper is on [[arXiv](https://arxiv.org/abs/2212.04673)].
 
